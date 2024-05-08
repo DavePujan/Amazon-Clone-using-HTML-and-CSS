@@ -1,0 +1,168 @@
+*{
+  margin: 0;
+  font-family: arial;
+  border: border-box;
+}
+
+
+/* Panel 1 */
+/* Box 1 */
+
+.navbar{
+  height:60px;
+  background-color: #0f1111;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.nav-logo{
+  height: 50px;
+  width:100px;
+}
+
+.logo{
+  background-image:url('https://i.postimg.cc/jjym8pNW/amazon-logo.png');
+  background-size: cover;
+  height: 50px;
+  width: 100%;
+
+}
+
+.border:hover{
+  border:2px solid white;
+}
+
+/* Box 2 */
+
+.add-icon{
+  display:flex;
+ 
+}
+
+.add-first{
+  color:#cccccc;
+  font-size:  0.87rem;
+  margin-left:14px;
+}
+
+.add-second{
+  margin-left:3px;
+  font-size: 1rem;
+
+}
+
+
+/* Box 3 */
+
+.nav-search{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: pink;
+  width:610px ;
+  height: 38px;
+  border-radius: 4px;
+}
+
+.nav-search:hover{
+  border: 2px solid orange;
+}
+
+.search-select{
+  background-color: #f3f3f3;
+  width: 50px;
+  text-align: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border: none;
+  font-size: 1rem;
+
+}
+
+.search-input{
+  width: 565px;
+  border: none;
+  font-size:1rem;
+  
+}
+
+
+.search-icon{
+  width: 45px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  background-color: #febd68;
+  border-top-right-radius: 4px ;
+  border-bottom-right-radius: 4px;
+  color:  #0f1111;
+}
+
+/* Box 4 and 5 */
+span{
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.list{
+  font-weight: 700;
+}
+
+/* Box 6 */
+.cart i{
+  font-size: 1.8rem;
+  }
+
+.cart{
+  font-weight: 700;
+}
+
+
+/* Panel 2*/
+
+.panel-2{
+  background-color: #232F3E;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  justify-content: space-evenly;
+
+}
+
+.p2{
+  padding:5px;
+}
+
+
+
+/* Box 1*/
+
+.All{
+  
+  color: #ffffff;
+  font-weight: 600;
+  padding: 5px;
+}
+
+.All i{
+ font-size: 20px;
+}
+
+.panel-ops{
+  display:flex;
+  width: 70%;
+  
+}
+
+.panel-ops p{
+  margin-left:15px;
+  font-size: 0.9rem;
+}
+
+.deals{
+  font-size:1rem ;
+  font-weight: 700;
+}
