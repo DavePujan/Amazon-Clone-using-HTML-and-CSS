@@ -295,3 +295,25 @@ footer{
     justify-content: center;
     font-size: 0.85rem;
 }
+
+/* Foot-panel-2 */
+
+.foot-panel2{
+    background-color:#232F3E;
+    height: 350px;
+    color: white;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.foot-panel2 ul{
+    margin-top: 50px;
+    
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 15px;
+    color:#dddddd ;
+}
