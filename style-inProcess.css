@@ -334,3 +334,21 @@ ul a{
     background-image: url("https://i.postimg.cc/jjym8pNW/amazon-logo.png");
     width: 100px;
 }
+
+/* Foot-panel 3*/
+
+.foot-panel4{
+    background-color: #0f1111;
+    height: 73px;
+    color: #dddddd;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages{
+    padding-top: 15px;
+}
+
+.copyright{
+    padding-top:5px ;
+}
